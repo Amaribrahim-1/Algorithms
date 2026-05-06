@@ -1,4 +1,4 @@
-### 🚀 Algorithms Performance Comparison
+### Algorithms Performance Comparison
 
 A practical JavaScript script to demonstrate and compare the execution time and time complexity of basic sorting and searching algorithms. 
 
